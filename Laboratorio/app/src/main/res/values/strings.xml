@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Laboratorio 4</string>
+    <string name="title_product_list">Listado Productos</string>
+    <string name="title_product_detail">Detalle Producto</string>
+    <string name="title_product_configuration">Configuracion</string>
+    <string name="error_message">Se produjo un error al cargar los productos</string>
+    <string name="succes_message">Los productos se guardaron correctamente</string>
+
+</resources>
